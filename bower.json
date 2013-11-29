@@ -1,0 +1,20 @@
+{
+  "name": "zcl-lab",
+  "version": "0.1.0",
+  "authors": [
+    "zcl"
+  ],
+  "description": "zcl-lab",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.2"
+  }
+}
